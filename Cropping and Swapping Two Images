@@ -1,5 +1,3 @@
-#Task 4.2 Take 2 images crop some parts of both images and swap them
-
 import numpy
 import cv2
 
